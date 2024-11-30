@@ -6,7 +6,7 @@ import pytest
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.common.by import By
 from Base import webdrivers
-from pages.homeLogin.login_page import LoginPage
+from pages.loginPage.login_page import LoginPage
 
 
 @pytest.mark.usefixtures("driverSetup", "setUp")
@@ -24,7 +24,7 @@ class LoginTests(unittest.TestCase):
     @pytest.mark.run(order=1)
     def test_userLogin(self):
         # self.driver.get(self.baseURL)
-        self.lp.login("standard_user", "secret_sauce")
+        self.lp.login("performance_glitch_user", "secret_sauce")
         result = self.lp.checkLogin()
         assert result == True
         # self.driver.quit()
