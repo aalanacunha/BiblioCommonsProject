@@ -1,17 +1,21 @@
 import pytest
 from selenium import webdriver
 from Base.webdrivers import WebDriver
-
-@pytest.yield_fixture()
-def setUp():
-    print("Running method level setUp")
-    yield
-    print("Running method level tearDown")
+from pages.loginPage.login_page import LoginPage
 
 @pytest.yield_fixture(scope="class")
-def driverSetup(request, browser):
+def setUp():
+    print("Test started")
+    yield
+    print("done")
+
+@pytest.yield_fixture(scope="class")
+def webDriverSetup(request, browser):
     webd = WebDriver(browser)
     driver = webd.getWebDriverInstance()
+    #start the tests with the user logged
+    lp = LoginPage(driver)
+    lp.login("error_user", "secret_sauce")
     if request.cls is not None:
         request.cls.driver = driver
 

@@ -1,5 +1,7 @@
 '''
  http://localhost:8000/city-info?city=toronto
+
+ uvicorn app.main:app --reload --host 0.0.0.0
 '''
 
 import fastapi
@@ -28,7 +30,7 @@ def get_city_temperature(city: str):
         city_name = data['name']
         temperature = data["main"]["temp"]
         status = response.status_code
-        return f"City: {city_name}, temperature: {temperature} C°, status: {status}"
+        return f"City: {city_name}, temperature: {temperature} C°, Status: {status}"
     except requests.RequestException as e:
         print(f"Request Error: {e}")
         return None
@@ -38,3 +40,12 @@ async def get_city_info(city: str):
     if not city:
         raise HTTPException(status_code=400, detail=f"City param no specified")
     return get_city_temperature(city)
+
+
+# url = ''
+# response = response.get(url)
+# print(response)
+#
+# if response.status_code == 200:
+#     data_json = response.json()
+#     for
