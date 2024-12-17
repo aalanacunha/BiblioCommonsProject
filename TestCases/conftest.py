@@ -3,13 +3,13 @@ from selenium import webdriver
 from Base.webdrivers import WebDriver
 from pages.loginPage.login_page import LoginPage
 
-@pytest.yield_fixture(scope="class")
+@pytest.fixture(scope="class")
 def setUp():
     print("Test started")
     yield
     print("done")
 
-@pytest.yield_fixture(scope="class")
+@pytest.fixture(scope="class")
 def webDriverSetup(request, browser):
     webd = WebDriver(browser)
     driver = webd.getWebDriverInstance()
@@ -33,7 +33,7 @@ def webDriverSetup(request, browser):
         #     print("Running tests on firefox")
 
     yield driver
-    driver.quit()
+    # driver.quit()
 
 def pytest_addoption(parser):
     parser.addoption("--browser")

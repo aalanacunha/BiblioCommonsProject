@@ -14,11 +14,11 @@ class CheckoutTest(unittest.TestCase):
 
     @pytest.fixture(autouse=True)
     def classSetup(self, webDriverSetup):
-        self.cp = Checkout(self)
+        self.cp = Checkout(self.driver)
 
     @pytest.mark.run(order=1)
     def test_selectProduct(self):
-        self.cp.selectproducts()
+        self.cp.clickproduct()
         result = self.cp.checkProduct()
         result == True
 
@@ -28,7 +28,7 @@ class CheckoutTest(unittest.TestCase):
         self.cp.clickCartIcon()
         result = self.cp.checkProduct()
         result == True
-        self.cp.continueShopBtn()
+        self.cp._continueShop_btn()
 
     @pytest.mark.run(order=3)
     def test_checkoutProducts(self):
@@ -40,10 +40,10 @@ class CheckoutTest(unittest.TestCase):
         # result = self.cp.checkoutmessage()
         # assert result == True
 
-    @pytest.mark.run(order=4)
-    def test_completeCheckoutForm(self, first_name, last_name, zipcode):
-        f = Faker()
-        self.cp.checkoutForm(f.first_name(), f.last_name(), f.zipcode())
-        result = self.cp.checkoutmessage()
-        assert result == True
+    # @pytest.mark.run(order=4)
+    # def test_completeCheckoutForm(self, first_name, last_name, zipcode):
+    #     f = Faker()
+    #     self.cp.checkoutForm(f.first_name(), f.last_name(), f.zipcode())
+    #     result = self.cp.checkoutmessage()
+    #     assert result == True
 

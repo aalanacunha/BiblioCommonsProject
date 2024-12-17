@@ -37,6 +37,7 @@ class LoginPage(SeleniumMethods):
 
     def getClickLoginBtn(self):
         return self.driver.find_element("xpath", self._login_btn)
+
     def clickLoginBtn(self):
         self.getClickLoginBtn().click()
 

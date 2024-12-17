@@ -11,6 +11,7 @@ import json
 import requests
 
 app = FastAPI()
+
 # url = 'http://api.openweathermap.org/data/2.5/weather'
 # appid = '6317f054c6846e41d98c8c381da7c082'
 

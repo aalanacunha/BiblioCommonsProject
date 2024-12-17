@@ -97,3 +97,92 @@
 12/05/2024 09:42:09 AM - SeleniumMethods - INFO: cannot send data on: //input[@id='user-name']locator type: xpath
 12/05/2024 09:42:09 AM - SeleniumMethods - INFO: cannot send data on: //input[@id='password']locator type: xpath
 12/05/2024 09:42:15 AM - SeleniumMethods - INFO: Element Found
+12/05/2024 10:08:43 AM - SeleniumMethods - INFO: cannot send data on: //input[@id='user-name']locator type: xpath
+12/05/2024 10:08:43 AM - SeleniumMethods - INFO: cannot send data on: //input[@id='password']locator type: xpath
+12/05/2024 10:08:43 AM - SeleniumMethods - INFO: Element Found
+12/05/2024 10:08:43 AM - SeleniumMethods - INFO: cannot send data on: //input[@id='user-name']locator type: xpath
+12/05/2024 10:08:43 AM - SeleniumMethods - INFO: cannot send data on: //input[@id='password']locator type: xpath
+12/05/2024 10:08:48 AM - SeleniumMethods - INFO: Element Found
+12/05/2024 10:10:16 AM - SeleniumMethods - INFO: cannot send data on: //input[@id='user-name']locator type: xpath
+12/05/2024 10:10:16 AM - SeleniumMethods - INFO: cannot send data on: //input[@id='password']locator type: xpath
+12/05/2024 10:10:16 AM - SeleniumMethods - INFO: Element Found
+12/05/2024 10:10:16 AM - SeleniumMethods - INFO: cannot send data on: //input[@id='user-name']locator type: xpath
+12/05/2024 10:10:16 AM - SeleniumMethods - INFO: cannot send data on: //input[@id='password']locator type: xpath
+12/05/2024 10:10:22 AM - SeleniumMethods - INFO: Element Found
+12/05/2024 10:11:51 AM - SeleniumMethods - INFO: cannot send data on: //input[@id='user-name']locator type: xpath
+12/05/2024 10:11:51 AM - SeleniumMethods - INFO: cannot send data on: //input[@id='password']locator type: xpath
+12/05/2024 10:11:51 AM - SeleniumMethods - INFO: Cannot click on the element: //a[@class='shopping_cart_link']
+12/05/2024 10:11:51 AM - SeleniumMethods - INFO: Element not found
+12/12/2024 09:01:39 PM - SeleniumMethods - INFO: cannot send data on: //input[@id='user-name']locator type: xpath
+12/12/2024 09:01:39 PM - SeleniumMethods - INFO: cannot send data on: //input[@id='password']locator type: xpath
+12/12/2024 09:01:39 PM - SeleniumMethods - INFO: Cannot click on the element: //a[@class='shopping_cart_link']
+12/12/2024 09:01:39 PM - SeleniumMethods - INFO: Element not found
+12/12/2024 09:04:07 PM - SeleniumMethods - INFO: cannot send data on: //input[@id='user-name']locator type: xpath
+12/12/2024 09:04:07 PM - SeleniumMethods - INFO: cannot send data on: //input[@id='password']locator type: xpath
+12/12/2024 09:04:07 PM - SeleniumMethods - INFO: Cannot click on the element: //a[@class='shopping_cart_link']
+12/12/2024 09:04:07 PM - SeleniumMethods - INFO: Element not found
+12/13/2024 12:12:02 PM - SeleniumMethods - INFO: cannot send data on: //input[@id='user-name']locator type: xpath
+12/13/2024 12:12:02 PM - SeleniumMethods - INFO: cannot send data on: //input[@id='password']locator type: xpath
+12/13/2024 12:15:39 PM - SeleniumMethods - INFO: cannot send data on: //input[@id='user-name']locator type: xpath
+12/13/2024 12:15:39 PM - SeleniumMethods - INFO: cannot send data on: //input[@id='password']locator type: xpath
+12/13/2024 12:20:32 PM - SeleniumMethods - INFO: cannot send data on: //input[@id='user-name']locator type: xpath
+12/13/2024 12:20:32 PM - SeleniumMethods - INFO: cannot send data on: //input[@id='password']locator type: xpath
+12/13/2024 12:42:24 PM - SeleniumMethods - INFO: cannot send data on: //input[@id='user-name']locator type: xpath
+12/13/2024 12:42:24 PM - SeleniumMethods - INFO: cannot send data on: //input[@id='password']locator type: xpath
+12/13/2024 12:45:49 PM - SeleniumMethods - INFO: cannot send data on: //input[@id='user-name']locator type: xpath
+12/13/2024 12:45:49 PM - SeleniumMethods - INFO: cannot send data on: //input[@id='password']locator type: xpath
+12/13/2024 12:50:35 PM - SeleniumMethods - INFO: cannot send data on: //input[@id='user-name']locator type: xpath
+12/13/2024 12:50:35 PM - SeleniumMethods - INFO: cannot send data on: //input[@id='password']locator type: xpath
+12/16/2024 01:12:25 PM - SeleniumMethods - INFO: cannot send data on: //input[@id='user-name']locator type: xpath
+12/16/2024 01:12:25 PM - SeleniumMethods - INFO: cannot send data on: //input[@id='password']locator type: xpath
+12/16/2024 01:15:08 PM - SeleniumMethods - INFO: cannot send data on: //input[@id='user-name']locator type: xpath
+12/16/2024 01:15:08 PM - SeleniumMethods - INFO: cannot send data on: //input[@id='password']locator type: xpath
+12/16/2024 01:17:37 PM - SeleniumMethods - INFO: cannot send data on: //input[@id='user-name']locator type: xpath
+12/16/2024 01:17:37 PM - SeleniumMethods - INFO: cannot send data on: //input[@id='password']locator type: xpath
+12/16/2024 01:18:17 PM - SeleniumMethods - INFO: cannot send data on: //input[@id='user-name']locator type: xpath
+12/16/2024 01:18:17 PM - SeleniumMethods - INFO: cannot send data on: //input[@id='password']locator type: xpath
+12/16/2024 01:21:07 PM - SeleniumMethods - INFO: cannot send data on: //input[@id='user-name']locator type: xpath
+12/16/2024 01:21:07 PM - SeleniumMethods - INFO: cannot send data on: //input[@id='password']locator type: xpath
+12/16/2024 01:23:54 PM - SeleniumMethods - INFO: cannot send data on: //input[@id='user-name']locator type: xpath
+12/16/2024 01:23:54 PM - SeleniumMethods - INFO: cannot send data on: //input[@id='password']locator type: xpath
+12/16/2024 01:26:22 PM - SeleniumMethods - INFO: cannot send data on: //input[@id='user-name']locator type: xpath
+12/16/2024 01:26:22 PM - SeleniumMethods - INFO: cannot send data on: //input[@id='password']locator type: xpath
+12/16/2024 01:26:22 PM - SeleniumMethods - INFO: Element Found
+12/16/2024 01:27:16 PM - SeleniumMethods - INFO: cannot send data on: //input[@id='user-name']locator type: xpath
+12/16/2024 01:27:16 PM - SeleniumMethods - INFO: cannot send data on: //input[@id='password']locator type: xpath
+12/16/2024 01:27:16 PM - SeleniumMethods - INFO: Element Found
+12/16/2024 09:43:48 PM - SeleniumMethods - INFO: cannot send data on: //input[@id='user-name']locator type: xpath
+12/16/2024 09:43:48 PM - SeleniumMethods - INFO: cannot send data on: //input[@id='password']locator type: xpath
+12/16/2024 09:43:48 PM - SeleniumMethods - INFO: Element Found
+12/16/2024 09:52:58 PM - SeleniumMethods - INFO: cannot send data on: //input[@id='user-name']locator type: xpath
+12/16/2024 09:52:58 PM - SeleniumMethods - INFO: cannot send data on: //input[@id='password']locator type: xpath
+12/16/2024 09:56:35 PM - SeleniumMethods - INFO: cannot send data on: //input[@id='user-name']locator type: xpath
+12/16/2024 09:56:35 PM - SeleniumMethods - INFO: cannot send data on: //input[@id='password']locator type: xpath
+12/16/2024 10:30:36 PM - SeleniumMethods - INFO: cannot send data on: //input[@id='user-name']locator type: xpath
+12/16/2024 10:30:36 PM - SeleniumMethods - INFO: cannot send data on: //input[@id='password']locator type: xpath
+12/16/2024 10:30:40 PM - SeleniumMethods - INFO: Element not found
+12/16/2024 10:32:26 PM - SeleniumMethods - INFO: cannot send data on: //input[@id='user-name']locator type: xpath
+12/16/2024 10:32:26 PM - SeleniumMethods - INFO: cannot send data on: //input[@id='password']locator type: xpath
+12/16/2024 10:32:29 PM - SeleniumMethods - INFO: Element not found
+12/16/2024 10:53:03 PM - SeleniumMethods - INFO: cannot send data on: //input[@id='user-name']locator type: xpath
+12/16/2024 10:53:03 PM - SeleniumMethods - INFO: cannot send data on: //input[@id='password']locator type: xpath
+12/16/2024 10:53:07 PM - SeleniumMethods - INFO: Element not found
+12/16/2024 10:53:13 PM - SeleniumMethods - INFO: Element not found
+12/16/2024 11:01:02 PM - SeleniumMethods - INFO: cannot send data on: //input[@id='user-name']locator type: xpath
+12/16/2024 11:01:02 PM - SeleniumMethods - INFO: cannot send data on: //input[@id='password']locator type: xpath
+12/16/2024 11:01:06 PM - SeleniumMethods - INFO: Element not found
+12/16/2024 11:01:12 PM - SeleniumMethods - INFO: Element not found
+12/16/2024 11:04:45 PM - SeleniumMethods - INFO: cannot send data on: //input[@id='user-name']locator type: xpath
+12/16/2024 11:04:45 PM - SeleniumMethods - INFO: cannot send data on: //input[@id='password']locator type: xpath
+12/16/2024 11:04:48 PM - SeleniumMethods - INFO: Element not found
+12/16/2024 11:04:52 PM - SeleniumMethods - INFO: Element not found
+12/16/2024 11:08:11 PM - SeleniumMethods - INFO: cannot send data on: //input[@id='user-name']locator type: xpath
+12/16/2024 11:08:11 PM - SeleniumMethods - INFO: cannot send data on: //input[@id='password']locator type: xpath
+12/16/2024 11:08:15 PM - SeleniumMethods - INFO: Element not found
+12/16/2024 11:08:18 PM - SeleniumMethods - INFO: Element not found
+12/16/2024 11:08:22 PM - SeleniumMethods - INFO: Element not found
+12/16/2024 11:10:04 PM - SeleniumMethods - INFO: cannot send data on: //input[@id='user-name']locator type: xpath
+12/16/2024 11:10:04 PM - SeleniumMethods - INFO: cannot send data on: //input[@id='password']locator type: xpath
+12/16/2024 11:10:08 PM - SeleniumMethods - INFO: Element not found
+12/16/2024 11:10:11 PM - SeleniumMethods - INFO: Element not found
+12/16/2024 11:10:15 PM - SeleniumMethods - INFO: Element not found
